@@ -108,4 +108,6 @@ def pode_visualizar_ajustada(chamado, departamento):
 
 **Conclusão pessoal confirmada no chat:** rejeitar código/documentação originais e encaminhar o ajuste à revisão da manutenção. A execução dos quatro casos e a conferência do texto sustentam conformidade com R3/R4 nesse recorte, mas não comprovam todas as entradas, integração ou segurança de um sistema real. A revisão acadêmica do estudante não substitui o aceite formal pela manutenção.
 
+Eu utilizei o GitHub copilot com o modelo GPT-6.1 SOL Medium para entender os arquivos da primeira atividade e segunda, com isso, realizar perguntas, execuções, chamadas e criações de funções para poder fazer os testes necessários para as atividades da AV 1 e AV 2. 
+
 **Checklist de conteúdo:** [x] quatro combinações; [x] critério prévio; [x] código e texto; [x] status; [x] alternativa/revalidação; [x] limites/IA; [x] revisão pessoal final; [x] paginação 2+2 páginas.
